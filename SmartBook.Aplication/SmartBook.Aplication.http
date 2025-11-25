@@ -1,0 +1,6 @@
+@SmartBook.Aplication_HostAddress = http://localhost:5089
+
+GET {{SmartBook.Aplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
